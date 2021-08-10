@@ -98,5 +98,5 @@ Day 3 - `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCen
  
 
   * In-class Exercises
-     * Exercise 1: `Hand-written digit classification with multi-layer perceptron <http://opensees.berkeley.edu>`_
-     * Exercise 2: `Roof classification with Transformation Learning <http://opensees.berkeley.edu>`_
+     * Exercise 1: `Hand-written digit classification with multi-layer perceptron <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/exercises/day3/exercise1.ipynb>`_
+     * Exercise 2: `Roof classification with Transformation Learning <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/exercises/day3/exercise2.ipynb>`_
